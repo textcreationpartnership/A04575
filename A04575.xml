@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of faith; or, Nothing more necessarie for a Christian, than a true sauing faith Preached before the Prince His Highnesse at S. Iames, the fiue and twentith [sic] of Ianuary, 1623. By Robert Iohnson, Batchelor of Diuinity, and one of his Majesties chaplains in ordinary.</title>
+            <title>Necessity of faith; or, Nothing more necessarie for a Christian, than a true saving faith.</title>
+            <author>Johnson, Ro. (Robert)</author>
+         </titleStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04575</idno><idno type="EEBO-CITATION">99843151</idno>
+  <idno type="VID">7864</idno>
+  <idno type="EEBO-PROQUEST">2240857131</idno>
+  <idno type="STC">STC 14693</idno>
+  <idno type="STC">ESTC S107450</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843151e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7864)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 755:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of faith; or, Nothing more necessarie for a Christian, than a true sauing faith Preached before the Prince His Highnesse at S. Iames, the fiue and twentith [sic] of Ianuary, 1623. By Robert Iohnson, Batchelor of Diuinity, and one of his Majesties chaplains in ordinary.</title>
+                  <title>Necessity of faith; or, Nothing more necessarie for a Christian, than a true saving faith.</title>
+                  <author>Johnson, Ro. (Robert)</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H[umphrey] L[ownes] for Mathew Lownes, and are to be sold at his shop in Pauls Churchyard, at the signe of the Bishops head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:7864:1"/>
+            <pb facs="tcp:7864:1"/>
+            <p>THE NECESSITY OF FAITH; OR, NOTHING MORE <hi>NECESSARIE FOR A</hi> Christian, than a true sauing faith.</p>
+            <q>
+               <bibl>
+                  <hi>Mat. 9.22.</hi>
+               </bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: Fides tua seruauit te.</p>
+            </q>
+            <q>
+               <p>
+                  <hi>Hoc vnum necessarium.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Rom.</hi> 14.23.</bibl>
+               <p>Whatsoeuer is not of faith, is sinne.</p>
+            </q>
+            <p>
+               <hi>Preached before the Prince his Highnesse at S.</hi> IAMES, <hi>the fiue and twentith of Ianuary,</hi> 1623.</p>
+            <p>By ROBERT IOHNSON, Batchelor of Diuinity, and one of his Majesties Chaplains in ordinary.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H.L.</hi> for <hi>Mathew Lownes,</hi> and are to be sold at his shop in Pauls Church-yard, at the signe of the Bishops head.</p>
+            <p>1624.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:7864:2"/>
+            <pb facs="tcp:7864:2"/>
+            <head>TO THE PRINCE HIS HIGHNESSE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O testifie, among others, my hearty thankfulnes vnto Al<g ref="char:EOLhyphen"/>mighty God for your High<g ref="char:EOLhyphen"/>nesse preseruation, and safe returne into this Land, may plead an excuse for my pre<g ref="char:EOLhyphen"/>sumption in dedicating this Sermon to your Highnesse. For, though this whole Land haue made shew of the joy of their hearts, and how their hearts within them danced for joy, for your Highnesse happy return, both by publick thanks<g ref="char:EOLhyphen"/>giuings to God, ringing of Bels, Bonfires, and such like; yet (me thinks) the Presse might haue
+<pb facs="tcp:7864:3"/> been more set a-work than it hath been, to presse out some lines on this subiect, of your Highnesse blessed &amp; happy Return, and our thankfulnesse to God for the same. And first, for your Grace, who chiefly hath found this grace and fauour of God, hee euer giue you grace to blesse and praise him for the same.</p>
+            <p>Gratitude is a rich and royall vertue, best be<g ref="char:EOLhyphen"/>seeming the best Princes, who haue the best means to expresse their thankfulnesse to GOD, and the most cause to excite others to this duty by their example: which vertue cannot be wan<g ref="char:EOLhyphen"/>ting in your princely heart, the same being ador<g ref="char:EOLhyphen"/>ned with so many other rare princely vertues and transcendent qualities.</p>
+            <p>
+               <note place="margin">Horace.</note>
+               <hi>Hîc ames dici Pater atque Princeps.</hi>
+            </p>
+            <p>For, thankfulnesse to God, is the prime and summe of all vertues and duties.</p>
+            <p>But yet there is another motiue which makes me bold to presume to offer this my poor mite into your Graces Treasury: for, the very Title of the Sermon pleads pardon and acceptance; namely, <hi>THE NECESSITY OF FAITH.</hi> For, as in this Chapter wee may reade, that the Fa<g ref="char:EOLhyphen"/>thers did great and wondrous works by the se<g ref="char:EOLhyphen"/>cret power of faith;<note place="margin">Heb. 11.</note> as, <hi>By faith,</hi> Enoch <hi>was
+<pb facs="tcp:7864:3"/> translated; By faith,</hi> Abraham <hi>receiued the promise; By faith, the Israelites passed tho<g ref="char:EOLhyphen"/>row the red sea:</hi> So by faith, by your true trust and confidence in God, and by his onely grace &amp; fauour, your Grace hath been translated hither again into this great and glorious Monarchie, this vnited and truely happy Ile. By faith, you haue receiued the promise, &amp; tasted of the sweet mercy and goodnes of God: and by your faith and confidence in God, you escaped also, and passed thorow the many and great dangers of the Sea. What is now your &amp; our duty for this great mer<g ref="char:EOLhyphen"/>cy and fauour of God, but to sing with <hi>Dauid</hi> (that sweet Singer of Israel) <hi>Canticum no<g ref="char:EOLhyphen"/>vum, Canticum laudis, &amp; Canticum grati<g ref="char:EOLhyphen"/>arum actionis;</hi> a new Song, a Song of praise, and a song of thanksgiuing vnto God? And since now, your Highnesse is the royall Plant of Gods right hand, and descended of the Race Royall, from <hi>THE DEFENDER OF THE FAITH,</hi> to whom should this tract of faith bee more rightly entituled, than to the Heire appa<g ref="char:EOLhyphen"/>rant to <hi>THE DEFENDER OF THE FAITH?</hi> Therefore as I was commanded to preach this Sermon before your Highnesse: and as it pleased your Highnesse, of your wonted gra<g ref="char:EOLhyphen"/>cious
+<pb facs="tcp:7864:4"/> disposition, to vouchsafe a gracious eare at the preaching thereof, with approbation: so it might also now please your Highnesse to vouch<g ref="char:EOLhyphen"/>safe your gracious patronage heerunto. And let my deuotion to your Highnesse, dispence with my presumption therein: for, I hold it my duty, to haue more regard of my owne seruice, than of the censure of others. And so, hartily beseeching al<g ref="char:EOLhyphen"/>mighty God, that as hee hath made you a conspi<g ref="char:EOLhyphen"/>cuous and eminent Starre, so you may long shine in wisdome and Religion to this and other Na<g ref="char:EOLhyphen"/>tions, to the glory of GOD, the comfort of this Church and Common-weale, the consolation of your owne soule, and to the joy of all our hearts; I will euer (according to my bounden duty) hum<g ref="char:EOLhyphen"/>bly commend your Highnesse, in my prayers, to the true Protector of Princes.</p>
+            <closer>
+               <signed>Your Highnesse most humbly de<g ref="char:EOLhyphen"/>uoted in all duty and seruice, ROBERT IOHNSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:7864:4"/>
+            <head>The Necessity of FAITH; <hi>OR, Nothing more necessary for a</hi> Chri<g ref="char:EOLhyphen"/>stian, than a true sauing faith.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb. 11.6.</hi>
+                  </bibl> But, without faith, it is vnpos<g ref="char:EOLhyphen"/>sible to please God.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE words are a <hi>Thesis</hi> or Position,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Gal. 3.7</note> shewing how euery Christian ought to serue and please GOD. And wee are all borne to serue God; and so to serue him, as by our seruice wee may please him. Now, they who by their seruice desire to
+<pb n="2" facs="tcp:7864:5"/> please GOD, this Text sheweth them the right way;<note place="margin">Text.</note> it must be by faith: for, <hi>sine fide impossibile est:</hi> without faith it is vnpossible to please God. <hi>Ille apud Deum plus habebit loci,</hi>
+               <note place="margin">Aug. de verb. Dan.</note>
+               <hi>qui plus attulit, non argenti, sed fidei,</hi> saith Saint <hi>Augustine:</hi> He shall haue most esteem with God, that brings, not most money, but most faith. For, in the Gospell we reade not, <hi>Aurum tuum saluum te fecit, sed fides tua saluum te fecit;</hi> Not thy gold or goods, but thy faith hath saued thee:<note place="margin">Idem <hi>vpon</hi> Luk.</note> for, as the same Father hath in his Book <hi>de verbis Domini,</hi>
+               <note place="margin">Fides thesaurus praestantissunus.</note>
+               <hi>Nullae maiores diuitiae, nulli thesauri, nulli ho<g ref="char:EOLhyphen"/>nores, nulla huius mundi maior est substantia, quàm fides catholica:</hi> there are no greater ri<g ref="char:EOLhyphen"/>ches, no greater treasures, no greater ho<g ref="char:EOLhyphen"/>nors, there is no greater or better substance in the world, than a true catholique faith; the effects whereof there follow: <hi>Quae pec<g ref="char:EOLhyphen"/>catores homines saluat, caecos illuminat, infirmos curat, martyres coronat, &amp; in haereditate aeter<g ref="char:EOLhyphen"/>nâ cum sanctis Angelis collocat:</hi> Which saueth sinners, without which they could not bee saued; giues light to the blinde, without which they sit still in darknes; cures the sick, without which they remain mortally
+<pb n="3" facs="tcp:7864:5"/> sick both in soule and body;<note place="margin">Intemerata fi<g ref="char:EOLhyphen"/>des.</note> crownes the Martyrs, and placeth them in the euerla<g ref="char:EOLhyphen"/>sting inheritance in the heauens, to which place without faith they could neuer come. Therefore heer in this Chapter is a faithfull Cloud of Witnesses, who all giue testimony of the admirable and wonderfull vertue and power of faith: by which, the Fathers in that Chapter, receiue their <hi>lumen,</hi> lustre, and commendations from GOD and his blessed Spirit.</p>
+            <p>
+               <hi>Ante Iouem generata decus, diuûmque,</hi>
+               <note place="margin">Silius.</note>
+               <hi>homi<g ref="char:EOLhyphen"/>númque:</hi>
+            </p>
+            <p>
+               <hi>Quâ sine, non tellus pacem, non aequora nô<g ref="char:EOLhyphen"/>runt;</hi>
+            </p>
+            <p>
+               <hi>Iustitiae consors, tacitúmque in pectore numen.</hi>
+            </p>
+            <p>If the Heathen could say so much of their ciuill faith, as <hi>Seneca</hi> also hath, Epistle 89,<note place="margin">Seneca ep. <hi>89.</hi>
+               </note>
+               <hi>Fides sanctissimum humani pectoris bonum est;</hi> Faith is the most sanctified Iewell of the minde: how much more may it be said of a true, Christian, iustifying and sauing faith;<note place="margin">Spes O fidelissi<g ref="char:EOLhyphen"/>ma Teucrûm.</note> without which, none can come into the fauour of God! for, <hi>without faith,</hi>
+               <note place="margin">Text.</note>
+               <hi>it is vnpos<g ref="char:EOLhyphen"/>sible to please God.</hi>
+            </p>
+            <p>It is remarkable, and worth our obser<g ref="char:EOLhyphen"/>uing,
+<pb n="4" facs="tcp:7864:6"/> which the Glosser vpon <hi>Damascene</hi> hath noted in his Epistle Dedicatory, vpon his Book <hi>de orthodoxa fide:</hi> where hee saith, <hi>Nihil certius aut firmius animis nostris esse de<g ref="char:EOLhyphen"/>bere,</hi>
+               <note place="margin">Damascen. in Epist. dedic.</note>
+               <hi>quàm fidei catholicae documenta, regulas, &amp; articulos:</hi> Nothing ought to inhere in our mindes more firmly and certainly, than the doctrine, rules and articles of a true ca<g ref="char:EOLhyphen"/>tholique, Christian faith; <hi>without which,</hi> as the Text saith, <hi>it is vnpossible to please GOD.</hi> For, as we cannot serue nor please GOD without faith; so neither can we bee saued without faith: for, as <hi>Athanasius</hi> teacheth vs in his Creed, <hi>Whosoeuer will bee saued, be<g ref="char:EOLhyphen"/>fore all things, it is necessary, that hee hold the catholique faith: which faith except hee keep, vndoubtedly he cannot be saued.</hi>
+            </p>
+            <p>So that as before ye heard, there is no fa<g ref="char:EOLhyphen"/>uour of God to be lookt for without faith: so also there is no saluation without the same. And the Apostle plainly confirmeth this doctrine:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Eph. 2.8</note>
+               <hi>By grace are ye saued, through faith, and that not of your selues: it is the gift of God.</hi> So that without faith we can neither attain saluation, nor the fauour of GOD: for, it is his pleasure, that if we be saued, or
+<pb n="5" facs="tcp:7864:6"/> sanctified, or iustified, or come into his fa<g ref="char:EOLhyphen"/>uour, it must be by faith. <hi>For, without faith,</hi>
+               <note place="margin">Text. Amb. de virg.</note>
+               <hi>it is vnpossible to please God. O thesauris om<g ref="char:EOLhyphen"/>nibus opulentior fides! O virtutibus omnibus corporeis, fides fortior!</hi> as <hi>Ambrose</hi> hath in his book <hi>de virginitate.</hi> The treasure of faith is beyond all the treasure of the world: and the strength of faith is stronger than all the world: <hi>For, this is the victory that ouercomes the world, euen your faith.</hi>
+            </p>
+            <p>There is then a fourefold state of man<g ref="char:EOLhyphen"/>kinde; The state of creation,<note place="margin">4 fold state.</note> the state of propagation, the state of regeneration, and the state of glorification.</p>
+            <p>The first is the state of creation, which our parents had of and from God himselfe in Paradise, when-as hee made them in his own image, that is, not as the <hi>Anthropomor<g ref="char:EOLhyphen"/>phits</hi> haue thought &amp; taught, <hi>secundū simili<g ref="char:EOLhyphen"/>tudinem humani corporis:</hi> for, <hi>Deus spiritus est,</hi> God is a spirit; &amp; as he is a spirit vncreate,<note place="margin">Imago Dei in creatione quid.</note> so made man, that is, the spirit of man, the soule of man, in his Image: which the A<g ref="char:EOLhyphen"/>postle doth plainly expound to be <hi>iustitia &amp; sanctitas,</hi> righteousnes and holinesse. <hi>Put on the new man, which, after God, is created in
+<pb n="6" facs="tcp:7864:7"/> righteousnes and true holinesse.</hi>
+               <note place="margin">
+                  <hi>Eph. 4.24</hi> In iustitia &amp; sanctitate veri<g ref="char:EOLhyphen"/>tatis.</note> This is the first state, the state of innocency, wherein man was first made at the time of his creation, by infusion of those created qualities of righteousnes and holinesse into his soule, which were in God transcendently, and vncreated before all worlds. In which high and holy estate being placed, and left to his owne will and counsell, hee abusing the same, fell from it: and his Fall was great, because hee built his proiects vpon Satans subtilties, and his owne sandy counsels. And now he is, as we say, a man clean changed, <hi>quantum mutatus ab illo,</hi>
+               <note place="margin">Virg. Encad.</note> as if hee had neuer been the man, or partaker of such high gifts and graces: for, now he is throwne down from all heauenly disposition of minde, and quite changed both in body and soule.</p>
+            <p>
+               <note place="margin">Status naturae.</note>The second is the state of propagation, which wee haue by nature of our parents: and this is <hi>status corruptionis,</hi> the state of cor<g ref="char:EOLhyphen"/>ruption, wherein now all the sons of <hi>Adam</hi> are born:<note place="margin">Nisi renati estis, &amp;c. <hi>Ioh. 3.</hi>
+               </note> out of which state vnlesse we be deliuered <hi>by a new birth, by regeneration and newnesse of life, we cannot enter into the King<g ref="char:EOLhyphen"/>dome of God.</hi>
+            </p>
+            <pb n="7" facs="tcp:7864:7"/>
+            <p>The third, then, is <hi>status gratiae,</hi>
+               <note place="margin">Status gratiae.</note> the state of grace, by regeneration through faith; whereby we are born again, and made the sonnes of God by adoption and grace: into the which state vnlesse we be brought, it is vnpossible that we should either bee saued, or come into the fauour of God. <hi>For,</hi>
+               <note place="margin">Text.</note>
+               <hi>with<g ref="char:EOLhyphen"/>out faith, it is vnpossible to please God.</hi> For, there are but two waies for a man to be sa<g ref="char:EOLhyphen"/>ued; either <hi>per iustitiam Legis,</hi>
+               <note place="margin">Iustitia per fidē, non per legem.</note> by the righte<g ref="char:EOLhyphen"/>ousnes of the Law, or <hi>per iustitiam fidei,</hi> by the righteousnes of faith. By the first wee cannot: for, it is vnpossible, because the Law is so strict, that it iustifieth none but the perfect performers thereof.<note place="margin">Ambros.</note> Therefore <hi>qui fidem destruit, &amp; Legem obijcit, iniustus est: nam iustus ex fide, non ex Lege, viuet.</hi>
+               <note place="margin">Hab. 2.</note> The disability of the Law to iustifie a man, the Apostle apparently shewes, <hi>Rom.</hi> 8.3.<note place="margin">Salus non ex lege. <hi>Rom. 8.3.</hi>
+               </note>
+               <hi>That which was impossible to the Law, inasmuch as it was weak because of the flesh, God sent his Son in the similitude of sinfull flesh, and for sin con<g ref="char:EOLhyphen"/>demned sinne in the flesh.</hi> Where wee see the insufficiency of the Law to iustifie vs:<note place="margin">Salus per Chri<g ref="char:EOLhyphen"/>stum solum.</note> yet the Law is not to be blamed; but our cor<g ref="char:EOLhyphen"/>rupt nature, which hath made the same in<g ref="char:EOLhyphen"/>sufficient,
+<pb n="8" facs="tcp:7864:8"/> that it cannot iustifie vs as long as we are in the flesh. And the Law's weak<g ref="char:EOLhyphen"/>nes to iustifie vs, is seen in two things. First, because it craues that which our corrupt nature cannot giue, to wit, perfit obedience. Secondly, because it giues not that which we stand in need of,<note place="margin">Lex non remittit peccata.</note> namely, remission of sinnes: for, the Law iustifieth none, but the perfect fulfillers thereof. It commands and requires obedience thereunto, and bindes a curse vpon the transgressors of the same. Therefore there is no remission of sinnes to bee expected by the Law; but by faith, whereby wee are said to please God, and <hi>without which it is vnpossible to please him.</hi>
+               <note place="margin">Text.</note>
+            </p>
+            <p>This is <hi>Religionis nostrae basis &amp; organon,</hi> the ground and foundation of our religion. This is that which purifieth our hearts.<note place="margin">Acts 15.9</note> This is that which worketh by loue,<note place="margin">Gal. 5.6</note> and bringeth forth good works, to the glory of God, the consolation of our soules, and comfort of our brethren. This is that wher<g ref="char:EOLhyphen"/>by wee are freely iustified,<note place="margin">Rom. 4.3</note> and without which there is no iustification or remission to be expected. This is that whereby wee are at peace with God, and without which
+<pb n="9" facs="tcp:7864:8"/> there is no peace to bee looked for, either with God or our owne consciences. To be short, this is that whereby wee are saued,<note place="margin">
+                  <hi>Fide salui sumus</hi> Eph. 2.8</note> and without which there is no saluation to bee looked for: for, no saluation without pleasing God, and no pleasing God without faith: <hi>For, without faith,</hi>
+               <note place="margin">Text.</note>
+               <hi>it is vnpossible to please God.</hi>
+            </p>
+            <p>The words are a Proposition,<note place="margin">Diuision.</note> or a gene<g ref="char:EOLhyphen"/>rall Canon or Rule of Diuinity without ex<g ref="char:EOLhyphen"/>ception,<note place="margin">Text.</note> that <hi>without faith it is vnpossible to please God.</hi> Which Proposition consider we first <hi>diuisim:</hi> wherein we may obserue how many kinds of faith there are, and how that a true faith is the most necessary vertue for a Christian, of all others, and the <hi>basis</hi> and foundation of all other vertues whatsoeuer.</p>
+            <p>And then <hi>coniunctim,</hi> as the words are read; shewing, that neither man, nor any thing that is in man, can bring him into God's fauour, if faith be absent. <hi>For,</hi>
+               <note place="margin">Text.</note>
+               <hi>without faith, it is vnpossible to please God.</hi> And thus much for the <hi>Analysis</hi> of the Text. I will now proceed plainly and briefly in the fu<g ref="char:EOLhyphen"/>ture handling thereof.</p>
+            <pb n="10" facs="tcp:7864:9"/>
+            <p>
+               <note place="margin">Three kindes of faith.</note>AS touching faith, I do finde, that the Di<g ref="char:EOLhyphen"/>uines doo generally diuide faith into these three kindes:
+<list>
+                  <item>1 Into an historicall or dead faith.</item>
+                  <item>2 Into a miraculous or peculiar faith.</item>
+                  <item>3 Into a true, iustifying, and sauing faith.</item>
+               </list>
+            </p>
+            <p>
+               <note place="margin">Fìdes historica.</note>The historicall faith, so called, because he hath it by Story of Scripture, or dead faith, because it worketh not, is onely a bare ac<g ref="char:EOLhyphen"/>knowledging of the Word,<note place="margin">Defin. Tantùm cognitio in intellectu.</note> and an assent of the heart vnto the truth thereof; but yet works not by loue, either towards God, or his neighbour, to glorifie the one, or doo good vnto the other. And this bare know<g ref="char:EOLhyphen"/>ledge onely, without loue, is vnsufficient for a mans saluation: for, this kinde of faith is common, not onely to the reprobates, but euen to the diuels themselues:<note place="margin">Damones cre<g ref="char:EOLhyphen"/>dunt, &amp; contre<g ref="char:EOLhyphen"/>miscunt. <hi>Iames 2.19</hi>
+               </note> for so Saint <hi>Iames</hi> saith; <hi>Thou doost beleeue there is a God: thou doost well. The diuels doo beleeue, and trem<g ref="char:EOLhyphen"/>ble.</hi> The wicked men and diuels themselues do <hi>credere illi,</hi> and <hi>illum esse,</hi> but not <hi>in illum.</hi> They do beleeue there is a God, a true God; but not with loue to obey him, or to haue confidēce in his mercy. For, this distinction
+<pb n="11" facs="tcp:7864:9"/> hath Saint <hi>Augustine</hi> of faith,<note place="margin">
+                  <hi>Aug.</hi> in his ser. <hi>de tempore,</hi> 181.</note> in his Sermon <hi>de tempore:</hi> where hee saith, <hi>Aliud est, credere illi: aliud est, credere illum esse: aliud est, cre<g ref="char:EOLhyphen"/>dere in illum:</hi> It is one thing, to beleeue God, or that there is a God; and another thing, truely to beleeue in God, with loue and o<g ref="char:EOLhyphen"/>bedience to his Commandements, which is the effect of a true faith. <hi>Credere illi,</hi>
+               <note place="margin">Idem.</note>
+               <hi>est credere, verum esse quod loquitur in Scripturis:</hi> To beleeue God, is to beleeue, that he spea<g ref="char:EOLhyphen"/>keth truth in Scriptures: and <hi>credere illum esse,</hi> is but <hi>credere esse Deum,</hi> to beleeue that God is: both which the diuels themselues do acknowledge. But, <hi>Credere in illum,</hi>
+               <note place="margin">Credere sine cha<g ref="char:EOLhyphen"/>ritate, inanis fides est.</note>
+               <hi>est credere in illum cum dilectione, quia sine dilecti<g ref="char:EOLhyphen"/>one inanis fides est:</hi> To beleeue in God, is to beleeue in him with loue, because, without loue to him, faith is vain towards him.<note place="margin">Aug. de verb. Dom. secundum Lucam, ser. <hi>61</hi>
+               </note> To this purpose alludeth <hi>Augustine</hi> in his book <hi>de verbis Domini</hi> vpon <hi>Luke:</hi> where he saith, <hi>Multùm interest, vtrùm quis credat ipsum esse Christum, &amp; vtrùm quis credat in Christum. Ipsum esse Christum, daemones crediderunt;</hi>
+               <note place="margin">Daemones cre<g ref="char:EOLhyphen"/>dunt Christo, &amp; Christum esse.</note>
+               <hi>nec tamen in Christum daemones crediderūt:</hi> There is a great difference between him that doth but acknowledge Christ, and between him
+<pb n="12" facs="tcp:7864:10"/> that doth truely beleeue in Christ: for, the diuels did acknowledge Christ in the Gos<g ref="char:EOLhyphen"/>pell <hi>(We knowe who thou art, Iesu, thou Sonne of the liuing God: art thou come hither to tor<g ref="char:EOLhyphen"/>ment vs before the time?),</hi> but yet they did not, they could not beleeue in Christ with loue,<note place="margin">Poram inimiciti<g ref="char:EOLhyphen"/>am inter, &amp;c. <hi>Gen. 3.</hi>
+               </note> because there is an enmity put be<g ref="char:EOLhyphen"/>tween the seed of the woman, and the ser<g ref="char:EOLhyphen"/>pent: though hee bruise his heele, he shall break the serpents head, that old Leuiathan, in pieces, and shal and hath spoiled his prin<g ref="char:EOLhyphen"/>cipalities and powers, and made shewe thereof openly, by triumphing ouer them in his Crosse.</p>
+            <p>
+               <note place="margin">Solùm scire, non prodest. Aug. ibid.</note>So that onely to knowe Christ, and not to beleeue in Christ, is a dead faith. <hi>Ille enim verè credit in Christum, qui &amp; sperat in Chri<g ref="char:EOLhyphen"/>stum, &amp; diligit ipsum:</hi> He truely beleeueth in Christ, which hopeth in his mercy, and sheweth his loue towards him, by workes to glorifie him; neither of which the diuels can performe. And this was one of <hi>Origens</hi> errors;<note place="margin">Aug. de ciu. Dei. l. <hi>21.</hi> c. <hi>17.</hi>
+               </note> which, <hi>Augustine,</hi> in his Book <hi>De ci<g ref="char:EOLhyphen"/>uitate Dei,</hi> hath noted: <hi>Diabolum ipsum atque Angelos eius, post grauiora pro meritis supplicia, ex cruciatibus eruendos, atque sociandos sanctis
+<pb n="13" facs="tcp:7864:10"/> Angelis credidit;</hi> that there should bee a re<g ref="char:EOLhyphen"/>stauration of the damned spirits, after a long time of punishment, into their pristine state. Which error is most apparent by the words of our Sauiour, <hi>Depart from mee,</hi>
+               <note place="margin">Discedite à me, maledicti. <hi>Mat. 25.41.</hi>
+               </note>
+               <hi>yee cursed, into euerlasting fire, prepared for the di<g ref="char:EOLhyphen"/>uell and his angels.</hi> By which words we see, that there is no limitation or determination of the diuels punishment, but the same to bee without any limit, bound or end at all. And therefore to returne this faith onely, <hi>Credere illi,</hi> and <hi>illum esse,</hi> to beleeue onely that there is a God, is an vnfruitfull faith, a temporary faith, which endures for a time, a dissembling faith, a dead faith, and (to vse the words of Saint <hi>Augustine) Daemonum fi<g ref="char:EOLhyphen"/>des, non Christianorum,</hi> the faith of diuels, and not of Christians. And this kinde of faith,<note place="margin">Posi. <hi>1.</hi> Fides ficta, vana, falsa, hypocrita.</note> a dead faith, is vain and vnprofitable for a mans saluation: which, S. <hi>Iames</hi> proues by express words in this Chap. Verse 17. <hi>What auails it, my Brethren, though a man say he hath faith? can faith saue him?</hi> that is,<note place="margin">Fides sine operi<g ref="char:EOLhyphen"/>bus mortua est. <hi>Iames 2.17</hi>
+               </note> can a dead faith saue a man? For, how can that which is dead in it self, giue life to another? But a dead faith is dead in it selfe, <hi>ibid.</hi> verse 17:
+<pb n="14" facs="tcp:7864:11"/> Therefore it can neuer giue life to another, nor any way profit him that hath it. So that as Saint <hi>Iames</hi> saith in the last verse of this chapter, <hi>As the body, without the spirits, and life, and motion, is dead: euen so faith without works is dead also.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>1</label> In which regard, it behooueth all men to try and examine their faith, whe<g ref="char:EOLhyphen"/>ther it bee a good faith, or a bad, a liuely or dead faith. To which purpose, I exhort you with the Apostle,<note place="margin">Examinatio fi<g ref="char:EOLhyphen"/>dei.</note>
+               <hi>Try your selues, Brethren: examine your selues: knowe you not, that Iesus Christ is in you, except ye be reprobates?</hi> So say I concerning your faith, Examine your faith Brethren, whether it bee a liuely or a dead faith you haue.<note place="margin">Fides mortua non saluū facit. <hi>Iames 2.17</hi>
+               </note> Knowe you not, that a dead faith cannot saue a man? It behooueth then euery Christian to examine the state of his saluation, by his faith, and to stand fast in that liberty wherein Christ hath made vs free. If our temporall states were questio<g ref="char:EOLhyphen"/>ned, we would soon repair to counsell, for the repairing and amending thereof: should we not much rather take care to look into the state of our saluation, to knowe how we stand by faith? For, as without faith it is vnpossible to please God: so euery faith wil
+<pb n="15" facs="tcp:7864:11"/> not please him, nor bring a man into the fa<g ref="char:EOLhyphen"/>uour of God: for,<note place="margin">Fides mortua inanis est.</note> a dead faith is vaine and vnprofitable for a mans saluation.</p>
+            <p>What faith is it then that brings a man into the fauour of God?<note place="margin">A miraculous faith.</note> Can a miraculous faith doo it? which is a confidence of the minde,<note place="margin">Defin. Fides miraculosa</note> wrought by the holy Ghost in the hearts and mindes of some of God's selected people, whereby they were perswaded, that God would vse them as instruments for the performance of some miracle, as might bee for the glory of God, and confirmation of the truth of the Gospell of Christ Iesus. So by the hands of the Apostles, were many signes and miracles wrought.<note place="margin">Acts 3.</note>
+               <hi>Peter</hi> &amp; <hi>Iohn</hi> healed the Cripple by this miraculous faith.<note place="margin">Fides auro prae<g ref="char:EOLhyphen"/>stantior.</note>
+               <hi>Aurum &amp; argentum non habeo: Siluer and gold haue I none; but such as I haue, I giue vnto thee: In the Name of Iesus Christ of Nazareth, rise vp and walk.</hi> By this faith also,<note place="margin">3 Kings.</note>
+               <hi>Elias</hi> resto<g ref="char:EOLhyphen"/>red the Shunamites childe to life: but this kinde of faith is a peculiar faith to some of the Prophets and Apostles, and was for the confirmation of their office, and truth of their doctrine; and hath ceased long since, beeing not now in vse: for, wee must not
+<pb n="16" facs="tcp:7864:12"/> look to be saued by doing miracles, but by a true, Christian, iustifying faith, which worketh by loue: for, <hi>though wee had faith, that we could remoue mountains out of their pla<g ref="char:EOLhyphen"/>ces,</hi>
+               <note place="margin">Fides sine chari<g ref="char:EOLhyphen"/>tate inanis est. <hi>1 Cor. 13.</hi>
+               </note>
+               <hi>and had not charity, it profiteth nothing.</hi> We must look after such a faith that workes by loue, to bring forth fruits of obedience and newnes of life, not for or after a miraculous faith, as the Prophets and Apostles had, and which ceased with them. And therefore most absurd and abominable is the practice of the Romish Impostours,<note place="margin">The Iesuites would make good their rel<g ref="char:EOLhyphen"/>gion by mira<g ref="char:EOLhyphen"/>cles.</note> the Iesuites I mean, who when they perceiue their Po<g ref="char:EOLhyphen"/>pish Religion questioned, which is against Scriptures, Councels, and Fathers, they go about to delude them by fained stories and lying miracles, and to confirm the truth of their doctrine by them which are no other miracles but the wiles of Antichrist,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 Thes. 2.9</note>
+               <hi>whose coming is by the working of Satan, with all pow<g ref="char:EOLhyphen"/>er, and signes, and lying wonders.</hi> Of which kinde of men I may say, as sometimes <hi>Taci<g ref="char:EOLhyphen"/>tus</hi> did of the Roman <hi>Augures,</hi>
+               <note place="margin">Tacitus. Dira furiarum c<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ors.</note>
+               <hi>Hoc genus ho<g ref="char:EOLhyphen"/>minum semper vetabitur, semper tamen in ciui<g ref="char:EOLhyphen"/>tate retinebitur:</hi> This kinde of men are al<g ref="char:EOLhyphen"/>waies forbidden our city, and yet stil swarm
+<pb n="17" facs="tcp:7864:12"/> in the streets thereof,<note place="margin">In rabiem mens acta est.</note> as may both bee daily seen, &amp; may appear by the Proselites which they daily make, like themselues, the chil<g ref="char:EOLhyphen"/>dren of Satan. But,<note place="margin">They can doo no miracles, except it had been by Gun-powder.</note> leauing these to them<g ref="char:EOLhyphen"/>selues and their miracles (from both which God blesse this Land), let vs proceed to the third kinde of faith, which is now to bee considered, namely, a true, liuely, iustifying, and sauing faith. In which ye may first con<g ref="char:EOLhyphen"/>sider the <hi>definitum;</hi> and then, the definition.<note place="margin">Definitum.</note>
+               <hi>Fides,</hi> saith one, is a word of two syllables; <hi>Prima à facto, secunda à dicto. Fides,</hi>
+               <note place="margin">Fides, quasi fac quod dicis.</note>
+               <hi>quasi fac quod dicis.</hi> Faith is a word of two syllables, implying both confession and action, and also a confidence; as, <hi>Fides,</hi>
+               <note place="margin">Fides, quasi fido quod est.</note>
+               <hi>quasi fido quod est,</hi> beleeuing confidently that which shall come to passe heerafter. Hence the Greeks call it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>à <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, persuadere;</hi>
+               <note place="margin">Quintilian. vocat fidem persuasionē</note> to be perswa<g ref="char:EOLhyphen"/>ded confidently of those things to come to passe heerafter, which God hath promised. Hence the Apostle doth define it from it's effects and qualities, to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Heb. 11.1</hi> Fides est sub<g ref="char:EOLhyphen"/>stantia rerum sperandarum.</note>
+               <hi>the substance of things hoped for, the euidence of things not seen.</hi> Sometimes this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is taken for one of the three Persons in the Trinity: and so the Councels haue decreed,
+<pb n="18" facs="tcp:7864:13"/>
+               <hi>vnam in Trinitate esse</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">How this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is taken.</note>
+               <hi>&amp; tres</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; one essence or diuine nature, and three Per<g ref="char:EOLhyphen"/>sons. So, <hi>Deus est vnus &amp; trinus. Ʋnitas ad <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> refertur; Trinitas, ad</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. So <hi>Deus est Iehoua Elohim, vna essentia trium persona<g ref="char:EOLhyphen"/>rum:</hi> GOD is one essence in three persons. The Vnity hath reference to the essence; the Trinity, to the persons. But heer the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is taken for a substance of things ho<g ref="char:EOLhyphen"/>ped for, that is, for a personall &amp; indiuiduall or instrumentall substance; so that faith is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a substance, <hi>id est, substantia instru<g ref="char:EOLhyphen"/>mentalis:</hi>
+               <note place="margin">Iun. in sacrorum parallelorum li<g ref="char:EOLhyphen"/>bro <hi>on these words.</hi>
+               </note> for, as <hi>Iunius</hi> hath well noted on these words, <hi>Nemo potest Deo placere, quin hoc instrumento animum instructum habeat, eóque res speratas prehendat:</hi> No man can please God, vnlesse his minde bee instructed by faith, the instrumentall means whereby we expect things hoped for to come to passe, as if we had them in possession.</p>
+            <p>
+               <note place="margin">
+                  <hi>Aquin.</hi> on these words. Heb. 11.1</note>
+               <hi>Aquinas</hi> therefore, on these words <hi>Fides est substantia,</hi> hath this distinction: <hi>Substantia consideratur, vel causaliter, vel praesentaliter, vel essentialiter:</hi> This substance of faith is to be considered either causally, or presentally, or essentially.</p>
+            <pb n="19" facs="tcp:7864:13"/>
+            <p>First, <hi>causaliter, id est, faciens in nobis sub<g ref="char:EOLhyphen"/>stare res sperandas,</hi> making those things that are hoped for, to subsist in vs by faith.</p>
+            <p>Secondly, <hi>praesentaliter, per suam proprieta<g ref="char:EOLhyphen"/>tem,</hi> giuing a man a kinde of possession of those things we hope for, as if we had them really in possession already: for,<note place="margin">The rare and secret property of faith.</note> faith so re<g ref="char:EOLhyphen"/>presenteth life euerlasting to the eye of the soule, by it's secret, diuine quality and pro<g ref="char:EOLhyphen"/>perty, as if he saw it with his corporall eies. So did <hi>Abraham</hi> see the day of Christ: hee saw it, and reioyced.</p>
+            <p>Thirdly, <hi>essentialiter:</hi>
+               <note place="margin">Iun. idem in pa<g ref="char:EOLhyphen"/>rallelorum libro.</note> faith is a substance essentially, <hi>id est, essentia rerum sperandarum,</hi> the essence or being (in part) or things that are hoped for. <hi>Essentia enim beatitudinis nihil aliud est, quàm visio Dei, Iohn</hi> 17. The essence of beatitude is nothing else than the sight of God. <hi>When-as now wee see him as in glasse,</hi>
+               <note place="margin">Cor. 13</note>
+               <hi>by faith, afar off, we shall behold him heerafter in his glory, not with other; but with the same eies. Haec est vita aeterna,</hi>
+               <note place="margin">Iohn 17</note>
+               <hi>vt cognoscant te esse verum Deum, &amp; quem misisti, Iesum Christum:</hi> This is life euerlasting, to knowe thee the true God, and him whom thou hast sent, Iesus Christ.<note place="margin">Aquin. paral. idem.</note>
+               <hi>Qui ergo habent principia huius
+<pb n="20" facs="tcp:7864:14"/> scientiae et cognitionis, habent etiam substantiam eius:</hi> They that haue the beginnings and principles of this knowledge, haue also (in part) the substance thereof.<note place="margin">
+                  <hi>Aquin.</hi> on Heb. 11.1</note> Therefore heer wee must learne by faith to draw neer to God, and he wil draw neer to vs, <hi>Iam.</hi> 4. But none can approach to God, but by faith, <hi>quia fides est lumen intellectus nostri,</hi> because faith is the light of our vnderstanding, whereby wee behold God by faith.<note place="margin">Damas. orthod. fid. l. <hi>4.</hi>
+               </note> Therefore <hi>Da<g ref="char:EOLhyphen"/>mascene,</hi> in his fourth Book <hi>orthodoxae fidei,</hi> vpon these words, <hi>Fides est substantia,</hi> hath well noted, <hi>Indubitabilis spes, tam eorum quae à Deo nobis promissa sunt, quàm assecutionis no<g ref="char:EOLhyphen"/>strarum petitionum:</hi> Faith is a most vndoub<g ref="char:EOLhyphen"/>ted and vniudged-of hope, both of those things which God hath promised vnto vs, as also of the obtaining of our requests wee make vnto God by faith. So then, <hi>Fides non solùm est inuisibilis,</hi>
+               <note place="margin">Aug. de verb. Dom.</note>
+               <hi>sed etiam inuisibilium:</hi> Faith is the intellectuall and inuisible sub<g ref="char:EOLhyphen"/>stance of inuisible things; and so visible by faith,<note place="margin">Aug. retract.</note> as if we saw them with our corporall eies. <hi>Nam inuisibilia intellecta, quae fide con<g ref="char:EOLhyphen"/>spiciuntur, multò certiora sunt, quàm ea quae cor<g ref="char:EOLhyphen"/>poris sensus cernunt:</hi> Those inuisible and in<g ref="char:EOLhyphen"/>tellectuall
+<pb n="21" facs="tcp:7864:14"/> things are as certain, as those that we behold now with our eies. And there<g ref="char:EOLhyphen"/>fore doth the Apostle in the ensuing words call faith, <hi>The euidence of things not seen.</hi>
+               <note place="margin">Heb. 11.1 Faith is the e<g ref="char:EOLhyphen"/>uidence of things not seen</note> The school of God and nature are of two con<g ref="char:EOLhyphen"/>trary qualities. In nature's school, wee first see, and then beleeue: Thomas,<note place="margin">Iohn</note>
+               <hi>thou belee<g ref="char:EOLhyphen"/>uest, because thou hast seen: but blessed are they that see not, and yet beleeue.</hi> In Christ's school, wee first beleeue, and then see; or by belee<g ref="char:EOLhyphen"/>uing we see intellectually,<note place="margin">Iohn 8.</note> which afterward we shall behold really.<note place="margin">Heb. 11.13 Faith sees afar off.</note> So <hi>Abraham</hi> by faith saw the day of Christ: and the Fathers saw things afar off, and beleeued them, and re<g ref="char:EOLhyphen"/>ceiued them thankfully, and confessed, that they were strangers and pilgrimes on the earth. We see then heer the secret and rare property and quality of faith, to bee <hi>the sub<g ref="char:EOLhyphen"/>stance of things hoped for, and the euidence of things not seen.</hi> And this word, <hi>euidence,</hi> is most proper also to illustrate the power of faith. For,<note place="margin">
+                  <hi>Simile.</hi> If a mans state be questioned, he must shew euidence.</note> as hee that layeth claim to a house or piece of land, if the state or title thereof be questioned, must shew his euidence, by what tenor or right hee holds the same: so hee that will lay claime to heauen and his
+<pb n="22" facs="tcp:7864:15"/> heauenly inheritance,<note place="margin">Faith and the Earnest of the Spirit is our e<g ref="char:EOLhyphen"/>uidence for sal<g ref="char:EOLhyphen"/>uation.</note> hath no other eui<g ref="char:EOLhyphen"/>dence to shew for it, but this euidence of faith, and the Earnest of the Spirit of God, which begetteth this confidence in the hart and soule of man, whereby hee may assure himself of the fauour of God, and bring him selfe into the fauour of God by faith.<note place="margin">Text.</note>
+               <hi>For, without faith, it is vnpossible to please God.</hi>
+            </p>
+            <p>Now therefore hauing shewed the pro<g ref="char:EOLhyphen"/>perties of faith, let vs grow vp in this grace, and learn from the words of the Text, this position also,</p>
+            <p>
+               <note place="margin">
+                  <hi>Posi.</hi> No man can please God without faith, with any thing that is in him.</note>That no man, nor any thing that is in man, can bring him into the fauour of God, if faith be absent.</p>
+            <p>For proof heerof, let vs look into man, in<g ref="char:EOLhyphen"/>to the whole man, into his soule and body. As it was said of Ierusalem, <hi>Look thorow Ie<g ref="char:EOLhyphen"/>rusalem: look thorow the streets thereof: see if there be any that feares God:</hi>
+               <note place="margin">Look thorow mans soul and body.</note> so look thorow man: look into his soule, and the streames and faculties thereof: see if there bee any thing there worth the beholding:<note place="margin">The naturall man discerneth naturally.</note> look into his vnderstanding and reason, his will and affection, and you shall see the miserable estate &amp; condition of man. For, is not mans
+<pb n="23" facs="tcp:7864:15"/> vnderstanding, in the Fall of <hi>Adam,</hi>
+               <note place="margin">1 cor. 2.14 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> so dark<g ref="char:EOLhyphen"/>ned, that <hi>The naturall man perceiueth not the things that bee of God? for they are foolishnes vnto him, neither can hee knowe them, because they are spiritually discerned,</hi> as the Apostle plainly sheweth in the first to the Corinths,<note place="margin">A reason heerof</note> the second Chapter, and the foureteenth Verse. For, the whole man, in <hi>Adam</hi>'s Fall, was throwne down from all heauenly dis<g ref="char:EOLhyphen"/>position of minde: and so he remaines,<note place="margin">Eph. 2.8</note> vn<g ref="char:EOLhyphen"/>till hee bee illuminated by grace through faith. For, by nature, is not the will of man flat against the will and righteousnesse of God? Can man, by nature, either vnder<g ref="char:EOLhyphen"/>stand, will or desire any thing that is holy or good,<note place="margin">The old Philo<g ref="char:EOLhyphen"/>sophers, by all their wisdome, could not please God.</note> vnlesse it bee by the illumination of grace? Ask the Philosophers in Saint <hi>Pauls</hi> time, if they could, by all their vnderstan<g ref="char:EOLhyphen"/>ding and naturall knowledge, bring them<g ref="char:EOLhyphen"/>selues into the fauour of God; and they wil all return a verdict vpon this case heer han<g ref="char:EOLhyphen"/>dled in my Text, that, <hi>Without faith,</hi>
+               <note place="margin">Text. <hi>1 cor. 3.19</hi> Comprehendam sapientes in astu<g ref="char:EOLhyphen"/>tia eorum.</note>
+               <hi>it is vn<g ref="char:EOLhyphen"/>possible to please God.</hi> For, it is written, <hi>I will destroy the wisdome of the wise, and cast away the vnderstanding of the prudent. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:7864:16"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>? Where is the Scribe?</hi>
+               <note place="margin">1 Cor. 1.20</note>
+               <hi>Where is the wise? Where is the disputer of this world? Hath not God made the wisdome of this world, foolishnes?</hi>
+            </p>
+            <p>Is there any thing in the minde of man, whereby hee can please God? Can a man's wit please God?<note place="margin">The wit of man, without faith, can doo nothing.</note> Wit is an excellent iewell of nature, if it be well vsed: but if it be abu<g ref="char:EOLhyphen"/>sed, as the Israelites abused their iewels by making of them a molten Calf, then it be<g ref="char:EOLhyphen"/>comes odious and abominable.</p>
+            <p>Ask <hi>Ahitophel,</hi> if his actiue head and crafty wit could bring himself into the fauour of God, and hee will returne an Answer, that <hi>without faith it is vnpossible to please God.</hi>
+               <note place="margin">Text.</note>
+            </p>
+            <p>
+               <note place="margin">No feature of nature, or ri<g ref="char:EOLhyphen"/>ches, can bring a man into Gods fauour.</note>Can a man's or woman's beauty or fea<g ref="char:EOLhyphen"/>ture bring them into the fauour of God? Ask <hi>Absalon,</hi> if his golden locks; or <hi>Iezabel,</hi> if her painted face; or <hi>Nabal,</hi> with his flocks of sheep; or the rich Glutton, with his deli<g ref="char:EOLhyphen"/>cate diet and rich array; if these, or any of these could bring them into the fauour of God; and they will all giue this verdict, for the truth of my Text, that <hi>without faith it is vnpossible to please God.</hi>
+               <note place="margin">Text.</note>
+            </p>
+            <p>By what then shall a man seek to please
+<pb n="25" facs="tcp:7864:16"/> God? There are many gifts and graces in man,<note place="margin">Nothing but faith, or that which springs from faith, can please God.</note> whereby Almighty God is said to be well pleased with him; as, with charity, good works, humility, patience, and such like: but euen all these also spring from faith. For, <hi>Whatsoeuer is without faith, is sin.</hi>
+               <note place="margin">Rom. 14</note> For, faith is the root of all vertues that are in a man: they are all said to spring from faith. All our charity springs from faith. <hi>Quantùm credimus, tantùm diligimus:</hi>
+               <note place="margin">
+                  <hi>Greg. hom.</hi> 22 on Ezek.</note> Looke how much faith wee haue, so much loue and charity wee haue. No faith, no loue: for, as <hi>Augustine</hi> saith, <hi>Vbi fides non est,</hi>
+               <note place="margin">Aug. cont. Dona.</note>
+               <hi>non potest esse charitas:</hi> Where there is no faith, there can bee no loue nor charity at all in a man. Hence it is, that the Apostle exhorts, <hi>vt fides vestra fūdata sit in charitate,</hi> that your faith be rooted in loue, that ye may be ther<g ref="char:EOLhyphen"/>by able to comprehēd, with all Saints, what is the breadth and depth of the wisdom and loue of God: for, without these, faith and loue, we can do nothing, and we our selues are nothing. All our iustice springs from faith. <hi>Tullie,</hi> the Heathen Oratour,<note place="margin">Cicero.</note> could say &amp; call <hi>fidem, fundamentum justitiae;</hi> faith, the foundation and ground of iustice. And
+<pb n="26" facs="tcp:7864:17"/>
+               <hi>Ambrose</hi> saith,<note place="margin">Ambr. de voca<g ref="char:EOLhyphen"/>tione Gentium.</note>
+               <hi>fidem genetricem esse bonae vo<g ref="char:EOLhyphen"/>luntatis &amp; iustae actionis,</hi> faith to be the cause and means of all good affections &amp; actions. Yea, all our good works spring from faith. As the branches and fruit of a tree spring all from the root:<note place="margin">S<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</note> so all our works spring from faith, which is the root of them all. There<g ref="char:EOLhyphen"/>fore <hi>Chrysostome</hi> saith,<note place="margin">Chrys ser. de fide &amp; Spir s<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io.</note>
+               <hi>veram fidem plenam esse bonis operibus,</hi> that a true faith is euer full of good works, &amp; alwaies ready to shew it self, either in intention or action. Therfore are works necessary to saluation; tho not <hi>simpliciter,</hi> yet <hi>secundū quid.</hi> They are necessa<g ref="char:EOLhyphen"/>ry,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>emni. in exam. de operibus.</note> as one hath well noted, <hi>triplici respectu; ratione mandati, ratione nostri, ratione proximi:</hi> works are necessary in a threefold respect; in respect of God's Commandement, in re<g ref="char:EOLhyphen"/>spect of our owne soules and consciences, in respect of our neighbours wants.</p>
+            <p n="1">1 In respect of Gods cōmandement, good works are requisite and necessary to saluati<g ref="char:EOLhyphen"/>on: for, what more necessary, than God's Commandement? For, GOD hath com<g ref="char:EOLhyphen"/>manded vs to <hi>bring forth fruits worthy of a<g ref="char:EOLhyphen"/>mendment of life: and euery tree that brings not forth good fruit,</hi>
+               <note place="margin">Mat. 3.</note>
+               <hi>is hewne down, and cast into the
+<pb n="27" facs="tcp:7864:17"/> fire.</hi> Therefore saith our Sauiour, <hi>By their fruits ye shall knowe them:</hi> by their works ye shall discern their faith. <hi>For we are his work<g ref="char:EOLhyphen"/>manship,</hi> saith the Apostle, <hi>created,</hi>
+               <note place="margin">Eph. 2.</note>
+               <hi>in Christ Iesus, vnto good works, which God hath ordai<g ref="char:EOLhyphen"/>ned, that we should walk in them.</hi> So that good works are God's Ordinance &amp; Comman<g ref="char:EOLhyphen"/>dement; than which, nothing is more ne<g ref="char:EOLhyphen"/>cessary. Therefore works are necessary to saluation, in respect of the Commandemēt.</p>
+            <p n="2">2 They are necessary in respect of our selues, <hi>vt testentur de fide nostra,</hi>
+               <note place="margin">Works, neces<g ref="char:EOLhyphen"/>sary for our selues.</note> as they bear witnes to our selues, that our faith is good, because we see an inclination and desire in our selues to good works: for, how can we satisfie our selues, that our faith is good, when our works be vile &amp; naught? Ther<g ref="char:EOLhyphen"/>fore no good workes, no good faith; no good fruits, no good tree.</p>
+            <p n="3">3 Works are necessary in respect of our neighbours wants, to feed the hungry,<note place="margin">Mathew 25 The works of mercy.</note> to clothe the naked, to visit the sick, to com<g ref="char:EOLhyphen"/>fort the afflicted, and to doo to others that are in distresse and misery, as we would our selues be done vnto, if we were in such case.</p>
+            <p>In all which three respects, are works ne<g ref="char:EOLhyphen"/>cessary
+<pb n="28" facs="tcp:7864:18"/> to saluation.<note place="margin">Christians are the trees of the Lords gar<g ref="char:EOLhyphen"/>den.</note> And therefore we that are the trees of the Lord's orchard, and of his owne planting, must answer his expec<g ref="char:EOLhyphen"/>tation to be fruitful. He plants no Sicamor-tree, no vnfruitfull tree in his garden, but such as bear fruit: therefore, if we bee fruit<g ref="char:EOLhyphen"/>lesse, he will cut vs down, that we cumber not the ground. Wee, that are the choisest vines of the Lord God of hostes, must bring forth grapes as may be pleasant to his taste; not the sowre grapes of our corrupt nature,<note place="margin">Esay 1.</note> but good and pleasant grapes, to the glory of him that planted vs, and to the comfort of our selues and our brethren.</p>
+            <p>
+               <note place="margin">Exhortation.</note>Therefore now let vs shew our faith by our works, by our charity to God and man. To this purpose the Apostle Saint <hi>Iames</hi> ex<g ref="char:EOLhyphen"/>horts,<note place="margin">Iames 2.</note>
+               <hi>Shew mee thy faith by thy works.</hi> Shew me the tree by his fruits. Shew mee the fire by his heat.<note place="margin">Similitude.</note> Shew me the man by his moo<g ref="char:EOLhyphen"/>uing. If the tree beare no fruit, it is eyther dead or naught. If the fire giue no heat, it is out, or neer thereunto. If the body mooue not, it is lame, sick, or neer to death: so if a Christian bee not fruitfull in good works, he is in the sight of God as a dead tree. If he
+<pb n="29" facs="tcp:7864:18"/> giue not warmth and heat of his charity to others, he is as a painted fire, which warms not a man. If he moue not in all charitable affections and actions towards his neigh<g ref="char:EOLhyphen"/>bour, hee is as a paralytick man, or taken with some spirituall Apoplexie or deadly disease in his soule.<note place="margin">Mathew 7</note>
+               <hi>Therefore by their fruits yee shall knowe them,</hi> was our Sauior's Rule. And it is an infallible Rule, Where there are no good fruits, there is no good tree: where there are no good works,<note place="margin">A sauing faith is fruitfull.</note> there is no good faith. We say with Saint <hi>Paul,</hi> Faith iustifi<g ref="char:EOLhyphen"/>eth without works: <hi>sola fides justificat,</hi> one<g ref="char:EOLhyphen"/>ly faith doth iustifie a man: but it is a true, liuely, iustifying and sauing faith, which doth accompany good works;<note place="margin">A dead faith is vain and vn<g ref="char:EOLhyphen"/>profitable.</note> not a dead faith, which is vain, idle, and vnprofitable for a man's saluation: for, such a faith can<g ref="char:EOLhyphen"/>not saue or help a man at all.<note place="margin">Iames 2.14.</note>
+               <hi>Can faith saue a man,</hi> saith S. <hi>Iames?</hi> that is, can a dead faith saue a man? No surely: for, that which is dead in it selfe, how can it giue life to ano<g ref="char:EOLhyphen"/>ther? But the Apostle saith plainly, that <hi>faith without works is dead in it self.</hi>
+               <note place="margin">Iames 2.17</note> So that as for<g ref="char:EOLhyphen"/>merly wee haue learned, <hi>Without faith it is vnpossible to please God:</hi> so now wee learn,
+<pb n="30" facs="tcp:7864:19"/> Without such a faith as hath works, it is vn<g ref="char:EOLhyphen"/>possible to please God. Let vs then shew our faith by our works: let vs, like good trees, bring forth good fruit to the glory of God, comfort of our selues and brethren. <hi>Lucius,</hi>
+               <note place="margin">Lucius dialog.</note> in his Dialogues, reports of the hea<g ref="char:EOLhyphen"/>then gods, that they chose euery one of them a tree according to his liking; <hi>Iupiter,</hi> the Oak for his strength; <hi>Neptune,</hi> the Ce<g ref="char:EOLhyphen"/>dar for his talnesse; <hi>Ʋenus,</hi> the Popler for whitenes. But our God, the God of gods, and Lord of lords, hath chosen vs vnto him self,<note place="margin">Ephes. 2</note> a people zealous of all good works. <hi>We are his workmanship in Christ Iesus, created vn<g ref="char:EOLhyphen"/>to to good works,</hi> saith the Apostle; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>re<g ref="char:EOLhyphen"/>created vnto good works:</hi> for, so doth the word in the Originall imply.<note place="margin">We are Gods workmanship in <hi>Adam</hi> and in Christ.</note> Wee are his workmanship in <hi>Adam</hi> and in Christ; <hi>in Adam, vt simus; in Christo, vt justi &amp; sancti simus:</hi> in <hi>Adam,</hi> to bee men; but in the se<g ref="char:EOLhyphen"/>cond <hi>Adam,</hi> Christ Iesus, to bee iust men, good men, righteous men, sanctified men, holy men, holy ones of God, to do his will, to bring forth fruits, to seek his glory. <hi>Lux vestra ergo sic luceat:</hi>
+               <note place="margin">Mathew 5</note>
+               <hi>Therefore let your light so shine before men, that they may see your good
+<pb n="31" facs="tcp:7864:19"/> works, and glorifie your Father which is in hea<g ref="char:EOLhyphen"/>uen.</hi> God, in the creation, did separate light from darknes: wee may not, in the state of regeneration, ioine the works of darknes (as, enuying, strife, and disobedience) with the light of faith. Christ saith to his, as the Lord of the Vineyard said to his seruants, <hi>Quìd statis otiosi?</hi> Why stand yee idle? why seek yee not to please God by faith, and by such a faith as hath works? In the creation,<note place="margin">Genesis 1.</note> euery tree brought forth fruit after it's kind. Faith is the tree: good works are the fruit. As then, if it bee a good tree, it will bring forth good fruit: so if it be a good faith that we haue, it wil bring forth good fruit, good works to the glory of God, and comfort one of another.</p>
+            <p>And thus haue I shewed you the way to serue and please God, that it must bee by faith, and by such a faith as must bring forth good works. <hi>For, without faith,</hi> that is,<note place="margin">Text.</note> a iu<g ref="char:EOLhyphen"/>stifying faith, which doth accompany good works, <hi>it is vnpossible to please God.</hi> That therefore wee may all become the seruants of God, not in outward profession onely, but in Christian conuersation, let vs labour
+<pb n="32" facs="tcp:7864:20"/> daily for the increase of our faith. Let vs say to Christ, as the disciples did, <hi>O Lord increase our faith.</hi> If they had need then to pray for the increase of faith, surely we now in these daies haue much more need to say, to pray, and to cry to God, <hi>O Lord increase our faith.</hi> And let vs, finally, if we desire to please God by faith, and without which it is vnpossi<g ref="char:EOLhyphen"/>ble to please him, shew also our faith by our works, to the glory of his holy Name, and furtherance of our saluation in Iesus Christ; that, when he cometh, he may say vnto vs, <hi>Euge,</hi>
+               <note place="margin">Mat. 25.21</note>
+               <hi>bone serue: Well done, faithfull seruant: enter thou into thy Master's joy.</hi> To which vnspeakable ioy, where is all true ioy, and pleasure on his right hand for euermore, he bring vs all, for his Son's sake, Christ Iesus, our Lord and onely Sauiour: To whom, with the Father and the holy Spirit, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:7864:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
